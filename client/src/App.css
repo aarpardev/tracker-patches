@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+.App {
+    text-align:center;
+}
+
+.App-header {
+  background-color:black;
+  color: var(--body_color);
+}
+
+.App-link {
+  color:var(--body_link);
+  text-decoration: none;
+}
